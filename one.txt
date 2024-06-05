@@ -1,1 +1,10 @@
 one means 1
+two means 2
+three means 3
+four means 4
+five means 5
+six means 6
+seven means 7
+eight means 8
+nine means 9
+ten means 10
